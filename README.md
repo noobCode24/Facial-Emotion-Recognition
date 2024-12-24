@@ -1,4 +1,4 @@
--environment setup
+- Environment setup
 pip install requirements.txt
 
 - Run the program
